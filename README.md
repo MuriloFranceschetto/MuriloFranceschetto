@@ -23,4 +23,7 @@ My name is Murilo Franceschetto, I'm a Brasilian Software Developer who is passi
 </p>
 
 ### In my spare time
-I Like to play videogames and watch series.
+- 🎮 Video Games
+- 📺 Watch movies and series
+- ⚽ Sports
+- ✈️ Travel
